@@ -9553,5 +9553,31 @@ a.nav-link:hover:after {
 #contents h1 {
   color: #C0392B; }
 
-#contents p {
+#contents ul {
   color: #1A5276; }
+
+#logistics .featurette h1 {
+  color: #C0392B; }
+
+.featurette {
+  font-size: 1rem;
+  line-height: 2;
+  color: #1A5276; }
+
+.featurette .section-subheading {
+  color: #1565c0; }
+
+#people h1 {
+  color: #C0392B; }
+
+.people-widget .portrait-title h3 {
+  color: #1565c0;
+  font-size: 0.9rem;
+  line-height: 1.5; }
+
+.people-widget {
+  font-size: 1.3rem;
+  text-align: center; }
+
+#courses h1 {
+  color: #C0392B; }
