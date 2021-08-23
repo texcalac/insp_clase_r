@@ -9579,5 +9579,11 @@ a.nav-link:hover:after {
   font-size: 1.3rem;
   text-align: center; }
 
-#courses h1 {
+#sesions h1 {
   color: #C0392B; }
+
+#sesions .article-title a {
+  color: #1565c0; }
+
+#sesions a {
+  color: #1A5276; }
