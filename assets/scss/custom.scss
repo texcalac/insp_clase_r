@@ -1,0 +1,88 @@
+/* Encabezado, animar línea al colocar cursor sobre texto */
+.navbar {
+  background-color: white; 
+  font-size: 16px;
+  /*  background: $sta-menu-primary; */
+    /* this is the part that takes out the shadow & the only edit */
+    box-shadow: true;
+}
+
+/* Make mobile navbar skinnier */
+  
+  @media screen and (max-width: 768px) {
+    body {
+      margin-top: 100px !important;
+    }
+    .navbar {
+      min-height: 100px !important;
+    }
+  }
+
+/*make drop down menu more opaque on mobile */
+  
+  @media (max-width: 991.98px) { 
+    .navbar-collapse {
+      background-color: #f7f7f7d9 !important;
+    }
+  }
+
+/*----NAV LINK HOVER ANIMATION -----*/
+  
+  .nav-link:hover {
+    color: black !important;
+  }
+
+
+/* stroke */
+  
+a.nav-link,
+a.nav-link:after,
+a.nav-link:before {
+  transition: all .5s;
+}
+
+a.nav-link {
+  position: relative;
+}
+
+a.nav-link:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.'; /* make invisible, dot beneath links */
+    color: transparent;
+  background: #999999;
+    height: 2px;
+}
+
+a.nav-link:hover:after {
+  width: 70%;
+}
+
+#home .hero-title {
+  font-size: 2.6rem;
+  color: #154360;
+  line-height: 2;
+  margin-top: 30px;
+  font-family: 'Krub';
+}
+
+#about h1 {
+  color: #C0392B;
+}
+
+#about p {
+  color: #1A5276;
+}
+
+#contents h1 {
+  color: #C0392B;
+}
+
+#contents p {
+  color: #1A5276;
+}
+

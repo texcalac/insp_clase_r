@@ -1,52 +1,34 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+bio: Este curso pretende que el alumno adquiera habilidades para el procesamiento
+  y visualización de datos así como para el análisis desde una perspectiva espacial.
 email: ""
-highlight_name: false
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+name: null
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
-social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+- name: Instituto Nacional de Salud Pública
+  url: https://www.insp.mx
+role: null
 superuser: true
-title: Nelson Bighetti
+user_groups:
+  - Researchers
+  - Visitors
+  - Professor
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+El aprendizaje del procesamiento de datos y el análisis espacial de los eventos 
+en salud, forman parte de las competencias profesionales escenciales en 
+la formación epidemiológica e indispensable en el campo de la Salud Ambiental.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Este curso proporcionará las herramientas básicas para la comprensión y análisis 
+de problemas desde una perspectiva espacial, gestará las habilidades para 
+maximizar el aprovechamiento de las herramientas y capacidades que R permite. 
+Los datos que se procesarán durante el curso corresponderán a información real y 
+actualizada en salud ambiental.
+
+Al termino del curso el alumno será capaz de utilizar el software R para el 
+procesamiento de datos, podrá gestionar los atributos espaciales de la 
+información y generar visualizaciones gráficas a través de mapas temáticos para 
+su difusión, análisis y/o publicación. El alumno habrá adquirido las habilidades 
+para identificar, explorar y ejecutar análisis de mayor complejidad.
+

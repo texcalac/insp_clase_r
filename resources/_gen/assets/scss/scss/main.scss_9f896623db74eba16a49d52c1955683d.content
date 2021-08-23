@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* Set Bootstrap variables */
 /*!
  * Bootstrap v4.6.0 (https://getbootstrap.com/)
@@ -7195,7 +7196,7 @@ a.text-dark:hover, a.text-dark:focus {
  *  Wowchemy's Core Style
  **************************************************/
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 13.86px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65;
@@ -7280,7 +7281,7 @@ ul.task-list li input[type='checkbox'] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: "Roboto", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility; }
@@ -7292,7 +7293,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -7347,7 +7348,7 @@ a:focus {
 
 pre,
 code {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Ubuntu+Mono", monospace;
   color: #c7254e;
   /* Match bg of default highlight theme. */
   background-color: #f8f8f8; }
@@ -8957,7 +8958,7 @@ html[dir='rtl'] body {
 
 .section-subheading {
   font-size: 1.25rem;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   font-weight: bold;
   margin-top: 1rem;
   margin-bottom: 0.5rem; }
@@ -9486,3 +9487,71 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+/* Encabezado, animar línea al colocar cursor sobre texto */
+.navbar {
+  background-color: white;
+  font-size: 16px;
+  /*  background: $sta-menu-primary; */
+  /* this is the part that takes out the shadow & the only edit */
+  box-shadow: true; }
+
+/* Make mobile navbar skinnier */
+@media screen and (max-width: 768px) {
+  body {
+    margin-top: 100px !important; }
+  .navbar {
+    min-height: 100px !important; } }
+
+/*make drop down menu more opaque on mobile */
+@media (max-width: 991.98px) {
+  .navbar-collapse {
+    background-color: #f7f7f7d9 !important; } }
+
+/*----NAV LINK HOVER ANIMATION -----*/
+.nav-link:hover {
+  color: black !important; }
+
+/* stroke */
+a.nav-link,
+a.nav-link:after,
+a.nav-link:before {
+  transition: all .5s; }
+
+a.nav-link {
+  position: relative; }
+
+a.nav-link:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.';
+  /* make invisible, dot beneath links */
+  color: transparent;
+  background: #999999;
+  height: 2px; }
+
+a.nav-link:hover:after {
+  width: 70%; }
+
+#home .hero-title {
+  font-size: 2.6rem;
+  color: #154360;
+  line-height: 2;
+  margin-top: 30px;
+  font-family: 'Krub'; }
+
+#about h1 {
+  color: #C0392B; }
+
+#about p {
+  color: #1A5276; }
+
+#contents h1 {
+  color: #C0392B; }
+
+#contents p {
+  color: #1A5276; }

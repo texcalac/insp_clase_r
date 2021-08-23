@@ -7,27 +7,33 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
-title: Skills
+title: Logística
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: En línea, todo el tiempo
+  icon: chalkboard-teacher
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Clases, contenidos, dudas.
+- description: "Jueves de 15:00 a 17:00"
+  icon: laptop-code
   icon_pack: fas
-  name: Photography
+  name: Sesiones sincrónicas
+- description: Entrega antes de iniciar cada clase
+  icon: file-code
+  icon_pack: fas
+  name: Laboratorios
+
+design:
+  background:
+    color: white
+    gradient_start: white
+    text_color_light: false
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
@@ -44,3 +50,8 @@ feature:
 #  name: Surfing
 #  description: 90%
 ---
+
+La logística básica de la clase consiste en la revisión de contenidos durante 
+la sesión sincrónica, posterior a ello se le proporcionarán al alumno las 
+indicaciones para la realización del laboratorio que deberá entregar antes de 
+iniciar la siguiente sesión.

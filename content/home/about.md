@@ -12,7 +12,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Biography
+title: "Acerca del curso"
+
+design:
+  background:
+    color: white
+    gradient_start: white
+    text_color_light: false
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
