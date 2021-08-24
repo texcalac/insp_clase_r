@@ -3255,12 +3255,12 @@ input[type="button"].btn-block {
     display: none; }
 
 .navbar-light .navbar-brand {
-  color: #2b2b2b; }
+  color: #cb646c; }
   .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-    color: #2962ff; }
+    color: #FFFFFF; }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #34495e; }
+  color: #4BB2FF; }
   .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
     color: rgba(0, 0, 0, 0.7); }
   .navbar-light .navbar-nav .nav-link.disabled {
@@ -3270,21 +3270,21 @@ input[type="button"].btn-block {
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #2962ff; }
+  color: #FFFFFF; }
 
 .navbar-light .navbar-toggler {
-  color: #34495e;
+  color: #4BB2FF;
   border-color: transparent; }
 
 .navbar-light .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='%2334495e' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e"); }
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='%234BB2FF' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e"); }
 
 .navbar-light .navbar-text {
-  color: #34495e; }
+  color: #4BB2FF; }
   .navbar-light .navbar-text a {
-    color: #2962ff; }
+    color: #FFFFFF; }
     .navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
-      color: #2962ff; }
+      color: #FFFFFF; }
 
 .navbar-dark .navbar-brand {
   color: #fff; }
@@ -8091,7 +8091,7 @@ a.summary-link {
  **************************************************/
 .dropdown-menu {
   background-color: #fff !important;
-  color: #34495e !important;
+  color: #4BB2FF !important;
   z-index: 1032; }
 
 .navbar {
@@ -8120,18 +8120,18 @@ a.summary-link {
   .navbar .navbar-nav {
     display: flex; }
     .navbar .navbar-nav .nav-link {
-      color: rgba(52, 73, 94, 0.85); }
+      color: rgba(75, 178, 255, 0.85); }
       .navbar .navbar-nav .nav-link.active, .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
-        color: #34495e; }
+        color: #4BB2FF; }
       .navbar .navbar-nav .nav-link.active {
         font-weight: bold !important;
-        color: #2962ff !important; }
+        color: #FFFFFF !important; }
   .navbar .dropdown-menu {
     font-size: 13.86px; }
   .navbar .dropdown-item.active,
   .navbar .dropdown-item-active {
     font-weight: bold;
-    color: #2962ff !important; }
+    color: #FFFFFF !important; }
 
 .dark .navbar {
   background: #282a36;
@@ -8198,7 +8198,7 @@ a.summary-link {
   max-width: fit-content; }
 
 #navbar-main .main-menu-item ul li .nav-link {
-  color: #34495e; }
+  color: #4BB2FF; }
 
 .dark #navbar-main .main-menu-item ul li .nav-link {
   color: white; }
@@ -8254,7 +8254,7 @@ ul.nav-icons li.nav-item a.nav-link {
 
 .dropdown-item {
   background-color: #fff !important;
-  color: #34495e !important; }
+  color: #4BB2FF !important; }
 
 .dark .dropdown-item {
   background-color: #282a36 !important;
@@ -9490,7 +9490,7 @@ div.chart {
 
 /* Encabezado, animar línea al colocar cursor sobre texto */
 .navbar {
-  background-color: white;
+  background-color: #34495E;
   font-size: 16px;
   /*  background: $sta-menu-primary; */
   /* this is the part that takes out the shadow & the only edit */
@@ -9510,7 +9510,7 @@ div.chart {
 
 /*----NAV LINK HOVER ANIMATION -----*/
 .nav-link:hover {
-  color: black !important; }
+  color: #cb646c !important; }
 
 /* stroke */
 a.nav-link,

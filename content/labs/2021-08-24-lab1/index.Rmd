@@ -1,0 +1,15 @@
+---
+title: lab1
+subtitle: "subtítulo lab 1"
+author: "Tex"
+output:
+  html_document:
+    theme: flatly
+    toc: TRUE
+    toc_float: TRUE
+    toc_depth: 2
+    number_sections: TRUE
+    code_folding: hide
+---
+
+prueba
