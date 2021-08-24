@@ -1,8 +1,8 @@
 ---
-title: 'Welcome'
-subtitle: 'Introduce Yourself to R, RStudio, and Us!'
-summary: Introduce Yourself to R, RStudio, and Us!
-date: "2018-04-02T00:00:00Z"
+title: sesion1
+author: Tex
+summary: Introducción a la sesión 1
+date: '2021-08-24'
 featured: false
 draft: false
 
@@ -23,9 +23,17 @@ image:
 #   Otherwise, set `projects = []`.
 # projects: []
 
+slides: lab1
+
 links:
 - icon: flask
   icon_pack: fas
   name: lab
-  url: /Users/tex/OneDrive/GitHub/insp_clase_r/content/labs/lab1.html
+  url: /slides/lab1
 ---
+
+Welcome! We'll see you in our first class on Monday, and please do the lab linked above before Wednesday.
+
+
+
+
