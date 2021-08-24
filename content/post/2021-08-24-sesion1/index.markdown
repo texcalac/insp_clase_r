@@ -1,8 +1,8 @@
 ---
-title: sesion1
-subtitle: prueba de la sesión 1
-summary: probando que jale esta mdare
-date: '2021-08-24'
+title: 'Welcome'
+subtitle: 'Introduce Yourself to R, RStudio, and Us!'
+summary: Introduce Yourself to R, RStudio, and Us!
+date: "2018-04-02T00:00:00Z"
 featured: false
 draft: false
 
@@ -12,7 +12,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Beyond Meat on Unsplash**](https://unsplash.com/photos/ib5iJHRD5PY)'
+  caption: 'Image credit: [**Shitota Yuri on Unsplash**](https://unsplash.com/photos/p0hDztR46cw)'
   focal_point: ""
   preview_only: true
 
@@ -27,20 +27,5 @@ links:
 - icon: flask
   icon_pack: fas
   name: lab
-  url: /labs/01-eda_hot_dogs.html
-- icon: magic
-  icon_pack: fas
-  name: slides
-  url: /slides/01-slides.html
+  url: /labs/lab1.html
 ---
-
-## Readings
-
-
-- R for Data Science, Workflow: Basics Chapter: http://r4ds.had.co.nz/workflow-basics.html
-
-- Modern Dive, Getting Started Chapter: http://moderndive.com/2-getting-started.html
-
-- R & RStudio Basics: https://bookdown.org/chesterismay/rbasics/3-rstudiobasics.html
-
-- RStudio IDE Cheatsheet: https://github.com/rstudio/cheatsheets/blob/master/rstudio-ide.pdf
