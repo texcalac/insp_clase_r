@@ -13,7 +13,7 @@ image:
 links:
 - icon: magic
   icon_pack: fas
-  name: slides
+  name: diapos
   url: slides/S01_Intro_clase.pdf
 ---
 
