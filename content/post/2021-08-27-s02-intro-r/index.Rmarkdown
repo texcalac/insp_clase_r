@@ -14,6 +14,10 @@ links:
   icon_pack: fas
   name: slides
   url: slides/S01_Intro_clase.pdf
+- icon: flask
+  icon_pack: fas
+  name: lab
+  url: labs/lab_01.pdf
 ---
 
 ## Actividades para esta sesión 
@@ -24,16 +28,17 @@ Previo a esta sesión usted debió haber realizado las siguientes actividades.
 
 ### Obligatorias
 
-**1. Ver video: [¿Qué es R y para qué nos sirve?](https://youtu.be/3hR2A2nCI4U) 
-(7 minutos)**
+**1. Realizar el Laboratorio 1**
+
+**2. Ver video: [¿Qué es R y para qué nos sirve?](https://youtu.be/3hR2A2nCI4U) (7 minutos)**
 
 Este video nos explica de forma clara y sencilla los orígenes de R, nos define lo que es el software y nos resume sus ventajas y desventajas.
 
-**2. Instalar R y RStudio siguiendo las {{< staticref "uploads/instrucciones_de_instalacion.pdf" "newtab" >}}instrucciones de instalación{{< /staticref >}} {{< icon name="download" pack="fas" >}}.**
+**3. Instalar R y RStudio siguiendo las {{< staticref "uploads/instrucciones_de_instalacion.pdf" "newtab" >}}instrucciones de instalación{{< /staticref >}} {{< icon name="download" pack="fas" >}}.**
 
 Revise y siga con cuidado las indicaciones que aquí se le proporcionan para un mejor funcionamiento de R durante el curso.
 
-**3. Enviar por correo electrónico los resultados del laboratorio 1**
+**4. Enviar por correo electrónico los resultados del laboratorio 1**
 Para evaluar en Google Classroom esta actividad, suba una captura de pantalla del correo electrónico de su último ejercicio.
 
 &nbsp;
