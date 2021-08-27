@@ -159,3 +159,6 @@ cms:
 icon:
   pack:
     ai: true
+
+params:
+  ShowDatesOnPosts: false
