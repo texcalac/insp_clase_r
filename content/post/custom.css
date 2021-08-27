@@ -1,0 +1,12 @@
+
+.title-slide {
+  background-color: white;
+}
+
+.inverse {
+  background-color: white;
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
