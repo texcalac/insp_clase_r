@@ -9587,3 +9587,6 @@ a.nav-link:hover:after {
 
 #sesions a {
   color: #1A5276; }
+
+h2 {
+  font-weight: bold; }

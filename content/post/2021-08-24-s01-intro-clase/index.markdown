@@ -18,9 +18,7 @@ links:
 
 ---
 
-## Procesamiento y visualización de datos espaciales en R
-
-### Sesión de Introducción 
+## Sesión de Introducción 
 En esta sesión se compartirá información de la clase, la logística del curso y 
 la forma de evaluar.
 
