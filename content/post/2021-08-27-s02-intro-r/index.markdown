@@ -13,7 +13,7 @@ links:
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/lab1.html
+  url: labs/lab1.pdf
 - icon: magic
   icon_pack: fas
   name: slides
