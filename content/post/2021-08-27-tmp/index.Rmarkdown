@@ -1,0 +1,29 @@
+---
+title: tmp
+author: Tex
+date: '2021-08-27'
+slug: tmp
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-08-27T11:56:05-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## Sesión de Introducción 
+En esta sesión se compartirá información de la clase, la logística del curso y 
+la forma de evaluar.
+
+
+&nbsp;
+
+&nbsp;
+
+
