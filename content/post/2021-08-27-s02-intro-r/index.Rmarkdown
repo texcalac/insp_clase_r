@@ -10,6 +10,10 @@ image:
   preview_only: true
 
 links:
+- icon: flask
+  icon_pack: fas
+  name: lab
+  url: labs/lab1.html
 - icon: magic
   icon_pack: fas
   name: slides
