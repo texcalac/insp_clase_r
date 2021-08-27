@@ -10,12 +10,6 @@ draft: false
 image:
   preview_only: true
 
-links:
-- icon: magic
-  icon_pack: fas
-  name: slides
-  url: slides/S01_Intro_clase.pdf
-
 ---
 
 ## Sesión de Introducción 
@@ -26,3 +20,6 @@ la forma de evaluar.
 &nbsp;
 
 &nbsp;
+
+
+
