@@ -16,14 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: "[Google Classroom](https://classroom.google.com/c/MTk0ODUzMDYzODc1) todo el tiempo"
+- description: En línea, todo el tiempo.
   icon: chalkboard-teacher
   icon_pack: fas
-  name: Clases, contenidos, dudas.
+  name: "[Clases, contenidos, dudas](https://classroom.google.com/c/MTk0ODUzMDYzODc1)."
 - description: "Jueves de 15:00 a 17:00"
   icon: laptop-code
   icon_pack: fas
-  name: Sesiones sincrónicas
+  name: "[Sesiones sincrónicas](https://us02web.zoom.us/j/84431013415?pwd=d05RSEsyMitxaDAxNXhuYXlrQkFVZz09)"
 - description: Entrega antes de iniciar cada clase
   icon: file-code
   icon_pack: fas
