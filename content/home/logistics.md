@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: En línea, todo el tiempo
+- description: "[Google Classroom](https://classroom.google.com/c/MTk0ODUzMDYzODc1) todo el tiempo"
   icon: chalkboard-teacher
   icon_pack: fas
   name: Clases, contenidos, dudas.
@@ -55,3 +55,4 @@ La logística básica de la clase consiste en la revisión de contenidos durante
 la sesión sincrónica, posterior a ello se le proporcionarán al alumno las 
 indicaciones para la realización del laboratorio que deberá entregar antes de 
 iniciar la siguiente sesión.
+
