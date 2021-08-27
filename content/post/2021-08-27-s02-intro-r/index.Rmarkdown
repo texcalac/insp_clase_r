@@ -2,6 +2,7 @@
 title: "Sesión 02 - 09 Septiembre 2021"
 author: Tex
 date: '2021-08-27'
+showthedate: false
 slug: s02-intro-r
 summary: Sesión de introducción a R y uso de RStudio.
 featured: no
