@@ -1,0 +1,41 @@
+---
+title: | 
+  | Procesamiento y visualización 
+  | de datos espaciales en R
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(fontawesome)
+```
+
+## Laboratorio 1
+### Profesor: José Luis Texcalac Sangrador
+
+&nbsp;
+
+En R usted puede realizar diversas tareas, una de ellas es la ejecución de 
+tutoriales y cursos. Para este primer laboratorio usted ejecutará el curso 
+[“R Programming with Email Notification”](https://github.com/swirldev/R_Programming_E) 
+incluído dentro del paquete [swirl](https://swirlstats.com).
+
+* Es importante que ejecute la versión del curso que permite enviar los 
+resultados por correo electrónico.
+
+* Envíe los resultados al correo electrónico: `r fa("envelope", fill = "dodgerblue4")` jtexcalac@insp.edu.mx
+
+* En caso de no tener instalado algún cliente de correo electrónico en su computadora tome captura de pantalla al finalizar cada uno de los ejercicios, integre las imagenes en un solo documento, envíe las capturas por correo electrónico y suba el archivo como comprobante a Google Classroom.
+
+* Cualquier duda publíquela en la página del curso de Google Classroom.
+
+* Revise el video con las instrucciones de instalación y ejecución del curso.
+
+&nbsp;
+
+<video width="800" height="450" controls>
+  <source src="/Users/tex/OneDrive/Docencia/R_Procesamiento_Datos/Swirl_curso_v1.mp4" type="video/mp4">
+</video>
+
+
+
