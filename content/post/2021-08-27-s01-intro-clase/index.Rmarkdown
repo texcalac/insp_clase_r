@@ -10,6 +10,11 @@ image:
   caption: ''
   focal_point: ''
   preview_only: true
+links:
+- icon: magic
+  icon_pack: fas
+  name: slides
+  url: slides/S01_Intro_clase.pdf
 ---
 
 ## Sesión de Introducción 
