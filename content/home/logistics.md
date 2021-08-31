@@ -20,7 +20,7 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
   name: "[Clases, contenidos, dudas](https://classroom.google.com/c/MTk0ODUzMDYzODc1)."
-- description: "Zoom<br>Jueves de 15:00 a 17:00"
+- description: "Zoom<br>Jueves de 10:00 a 12:00"
   icon: laptop-code
   icon_pack: fas
   name: "[Sesiones sincrónicas](https://us02web.zoom.us/j/84431013415?pwd=d05RSEsyMitxaDAxNXhuYXlrQkFVZz09)"
