@@ -8,7 +8,7 @@ email: ""
 name: José Luis Texcalac Sangrador
 organizations:
 - name: José Luis Texcalac Sangrador
-  url: https://www.insp.mx
+  url: https://texcalac.netlify.app
 role: Investigador en Ciencias Médicas
 social:
 - icon: twitter
