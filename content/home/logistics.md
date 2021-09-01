@@ -23,7 +23,7 @@ feature:
 - description: "Zoom<br>Jueves de 10:00 a 12:00"
   icon: laptop-code
   icon_pack: fas
-  name: "[Sesiones sincrónicas](https://us02web.zoom.us/j/84431013415?pwd=d05RSEsyMitxaDAxNXhuYXlrQkFVZz09)"
+  name: "[Sesiones sincrónicas](https://us02web.zoom.us/j/84785908590)"
 - description: Entrega antes de iniciar cada clase
   icon: file-code
   icon_pack: fas
