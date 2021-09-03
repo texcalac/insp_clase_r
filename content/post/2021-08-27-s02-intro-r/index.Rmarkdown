@@ -50,7 +50,8 @@ Para evaluar en Google Classroom esta actividad, suba una captura de pantalla de
 
 En caso de dudas con las instrucciones de instalación, puede revisar este video que le mostrará de forma visual los pasos a seguir para la instalación de R y RStudio.
 
-**2. Revisar video tutorial de [uso de swirl](https://youtu.be/w6L7Ye18yPE)**
+**2. Revisar video tutorial del laboratorio 1 [Aprende R con swirl](https://youtu.be/UIfViD67jyk)**
+
 Consulte este video si tiene dudas para la realización del primer laboratorio, le mostrará las indicaciones para instalar el paquete y los pasos para ejecutar el tutorial.
 
 **3. Escuchar episodio de podcast [Uso de R para Ciencia de Datos](https://anchor.fm/datos-en-accion/episodes/Uso-de-R-para-Ciencia-de-Datos-e411di/a-abbudj)**
