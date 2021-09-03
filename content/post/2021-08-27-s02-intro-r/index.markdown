@@ -50,7 +50,7 @@ Para evaluar en Google Classroom esta actividad, suba una captura de pantalla de
 
 En caso de dudas con las instrucciones de instalación, puede revisar este video que le mostrará de forma visual los pasos a seguir para la instalación de R y RStudio.
 
-**2. Revisar video tutorial del laboratorio 1 [Aprende R con swirl](https://youtu.be/UIfViD67jyk)**
+**2. Revisar video tutorial del laboratorio 1 [Aprende R con swirl](https://youtu.be/GHa4kr_JOoE)**
 
 Consulte este video si tiene dudas para la realización del primer laboratorio, le mostrará las indicaciones para instalar el paquete y los pasos para ejecutar el tutorial.
 
