@@ -15,6 +15,10 @@ links:
   icon_pack: fas
   name: diapos
   url: slides/S01_Intro_clase.pdf
+- icon: flask
+  icon_pack: fas
+  name: lab
+  url: labs/lab_01.pdf
 ---
 
 ## Sesión de Introducción 

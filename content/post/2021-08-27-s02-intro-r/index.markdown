@@ -18,7 +18,7 @@ links:
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/lab_01.pdf
+  url: labs/lab_02.pdf
 ---
 
 ## Actividades para esta sesión 
