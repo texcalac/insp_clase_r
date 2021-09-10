@@ -1,0 +1,60 @@
+---
+title: "Sesión 03 - 16 Septiembre 2021"
+author: Tex
+date: '2021-09-10'
+slug: s03-markdown
+categories: []
+tags: []
+subtitle: ''
+summary: Sesión de introducción al uso de R con Markdown para la generación de 
+  informes.
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: true
+links:
+- icon: magic
+  icon_pack: fas
+  name: diapos
+- icon: flask
+  icon_pack: fas
+  name: lab
+---
+
+## Actividades para esta sesión 
+
+Previo a esta sesión usted debió haber realizado las siguientes actividades.
+
+&nbsp;
+
+### Obligatorias
+
+**1. Realizar el Laboratorio 02**
+Para evaluar esta actividad usted deberá subir a Google Classroom los 
+comprobantes que se le indican en el archivo de instrucciones correspondiente.
+
+**2. Ver video: [Tutorial de Markdown, en español](https://youtu.be/TtSWo2nbzAk) (4.5 minutos)**
+
+Este video nos explica de forma breve la redacción de código uttilizando el 
+lenguaje de marcado Markdown.
+
+
+**3. Ver video: [Script, R Markdown y R Notebook](https://youtu.be/y7JPGlw6dJg) (12.5 minutos)**
+
+Este video nos explica las diferencias entre un *script de R*, un documento 
+*R Markdown* y *R Notebook*.
+
+
+&nbsp;
+
+### Optativas
+
+**1. Revisar [Cheat Sheet de R Markdown](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) (16 minutos).**
+
+Una *Cheat Sheet* contiene los tips básicos de un tema en específico, en este 
+caso se refiere a lo básico que hay que saber sobre R Markdown.
+
+&nbsp;
+
+&nbsp;
