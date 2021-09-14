@@ -14,6 +14,7 @@ weight: 40
 *   [Gráficos con código base](https://r-coder.com/plot-en-r/?fbclid=IwAR2z1SdsAViS_zdlimYaqU0oPtOOzEBQDb2o4K6JWQjDgnV1A2aqPGtdQq4)
 *   [The R Graph Gallery](https://www.r-graph-gallery.com)
 *   [ggplot2 graphics companion](https://www.trafforddatalab.io/graphics_companion/index.html)
+*   [Colores en R](https://r-charts.com/es/colores/)
 
 <br>
 
