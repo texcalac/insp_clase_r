@@ -17,9 +17,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
+  url: slides/S03_Markdown.pdf
 - icon: flask
   icon_pack: fas
   name: lab
+  url: labs/Lab_03.pdf
 ---
 
 ## Actividades para esta sesión 
