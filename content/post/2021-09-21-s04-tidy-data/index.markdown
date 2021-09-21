@@ -1,7 +1,7 @@
 ---
 title: "Sesión 04 - 23 Septiembre 2021"
 author: Tex
-date: '2021-09-24'
+date: '2021-09-21'
 slug: s04-tidy_data
 categories: []
 tags: []
