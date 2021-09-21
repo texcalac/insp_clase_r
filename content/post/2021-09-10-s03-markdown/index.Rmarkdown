@@ -1,7 +1,7 @@
 ---
-title: "Sesión 03 - 16 Septiembre 2021"
+title: "Sesión 03 - 17 Septiembre 2021"
 author: Tex
-date: '2021-09-10'
+date: '2021-09-17'
 slug: s03-markdown
 categories: []
 tags: []
