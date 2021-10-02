@@ -16,7 +16,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S05_Importar_Datos.html
+  url: slides/S05_Importar_Datos.pdf
 - icon: flask
   icon_pack: fas
   name: lab
