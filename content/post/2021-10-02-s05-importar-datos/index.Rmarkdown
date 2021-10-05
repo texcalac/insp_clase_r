@@ -1,8 +1,8 @@
 ---
-title: "Sesión 05 - 28 Septiembre 2021"
+title: "Sesión 05 - 30 Septiembre 2021"
 author: Tex
 date: '2021-09-28'
-slug: s04-tidy_data
+slug: s05-readr
 categories: []
 tags: []
 subtitle: ''
