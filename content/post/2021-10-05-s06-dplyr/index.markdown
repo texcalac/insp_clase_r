@@ -1,7 +1,7 @@
 ---
 title: "Sesión 06 - 07 Octubre 2021"
 author: Tex
-date: '2021-10-05'
+date: '2021-10-07'
 slug: s06-dplyr
 categories: []
 tags: []
@@ -16,7 +16,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S06_dplyr_ggplot.pdf
 - icon: flask
   icon_pack: fas
   name: lab
