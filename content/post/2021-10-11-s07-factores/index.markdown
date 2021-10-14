@@ -1,7 +1,7 @@
 ---
 title: "Sesión 07 - 14 Octubre 2021"
 author: Tex
-date: '2021-10-11'
+date: '2021-10-14'
 slug: s07-dplyr
 categories: []
 tags: []
@@ -16,7 +16,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S07_factores_ggplot.pdf
 - icon: flask
   icon_pack: fas
   name: lab
