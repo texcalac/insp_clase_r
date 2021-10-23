@@ -6,7 +6,7 @@ slug: s09-stringr-ggplot
 categories: []
 tags: []
 subtitle: ''
-summary: Introducción a ggplot, datos wide, long y joins
+summary: Uso de stringr para la manipulación de texto, ggplot.
 authors: []
 lastmod: '2021-10-23T01:24:08-05:00'
 featured: no
