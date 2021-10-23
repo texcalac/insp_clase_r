@@ -1,7 +1,7 @@
 ---
 title: "Sesión 08 - 21 Octubre 2021"
 author: Tex
-date: '2021-10-18'
+date: '2021-10-21'
 slug: s08-ggplot
 categories: []
 tags: []
@@ -18,7 +18,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S08_ggplot.pdf
 - icon: flask
   icon_pack: fas
   name: lab
