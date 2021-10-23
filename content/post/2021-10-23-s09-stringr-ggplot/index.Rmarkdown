@@ -1,7 +1,7 @@
 ---
 title: "Sesión 09 - 28 Octubre 2021"
 author: Tex
-date: '2021-10-28'
+date: '2021-10-23'
 slug: s09-stringr-ggplot
 categories: []
 tags: []
