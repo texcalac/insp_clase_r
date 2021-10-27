@@ -46,7 +46,7 @@ comprobantes que se le indican en el archivo de instrucciones correspondiente.
 
 **5. Instalar paquete [visdat](https://github.com/ropensci/visdat)**
 
-Puede utilizar el paquete devtools o remotes si decide instalar desde la versión de Github (recomendable más no obligatorio)
+Puede utilizar el paquete devtools o remotes si decide instalar desde la versión de Github (recomendable más no obligatorio).
 
 **6. Instalar paquete [skimr](https://github.com/ropensci/skimr)**
 
