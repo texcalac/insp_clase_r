@@ -52,16 +52,16 @@ Puede utilizar el paquete devtools o remotes si decide instalar desde la versió
 
 **7. Revise las ligas recomendadas para la Sesión 08**
 
-Puede utilizar el paquete devtools o remotes si decide instalar desde la versión de Github (recomendable más no obligatorio)
+Puede utilizar el paquete devtools o remotes si decide instalar desde la versión de Github (recomendable más no obligatorio).
 
 &nbsp;
 
 
 ### Optativas
 
-**1. Revise la página oficial de [stringr](https://stringr.tidyverse.org)**
+**1. Revise la página oficial de [stringr](https://stringr.tidyverse.org)**.
 
-**2. Revise y descargue Cheat Sheet [String Manipulation with stringr](https://github.com/rstudio/cheatsheets/blob/master/strings.pdf)**
+**2. Revise y descargue Cheat Sheet [String Manipulation with stringr](https://github.com/rstudio/cheatsheets/blob/master/strings.pdf)**.
 
 &nbsp;
 
