@@ -18,7 +18,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S09_ggplot.pdf
 - icon: flask
   icon_pack: fas
   name: lab
