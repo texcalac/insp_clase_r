@@ -1,14 +1,14 @@
 ---
 title: "Sesión 10 - 04 Noviembre 2021"
 author: Tex
-date: '2021-11-07'
+date: '2021-11-04'
 slug: s10-join-stringr
 categories: []
 tags: []
 subtitle: ''
 summary: 'Unión de tablas y manipulación de textos'
 authors: []
-lastmod: '2021-11-07T00:39:40-06:00'
+lastmod: '2021-11-04T00:39:40-06:00'
 featured: no
 image:
   caption: ''
