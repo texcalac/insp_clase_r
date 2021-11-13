@@ -39,7 +39,7 @@ comprobantes que se le indican en el archivo de instrucciones correspondiente.
 
 **2. Revisar video [Why all world maps are wrong](https://youtu.be/kIID5FDi2JQ) (6 minutos).**
 
-**3. Realizar Lectura del capíttulo 1 (pag 3-22) del libro de Víctor Olaya "Sistemas de Información geográfica"**
+**3. Realizar Lectura del capítulo 1 (pag 3-22) del libro de Víctor Olaya "Sistemas de Información geográfica"**
 
 La lectura se encuentra disponible en Google Classroom
 
@@ -50,7 +50,7 @@ La lectura se encuentra disponible en Google Classroom
 
 ### Optativas
 
-**1. Revisar video tutorial de [Proyecciones cartográficas: por qué nos mienten los mapas) (8 minutos).**
+**1. Revisar video tutorial de [Proyecciones cartográficas: por qué nos mienten los mapas](https://youtu.be/u1eqEvVzagk) (8 minutos).**
 
 **2. Lectura [Análisis espacial en epidemiología: revisión de métodos](http://dx.doi.org/10.18273/revsal.v50n4-2018009)**
 
