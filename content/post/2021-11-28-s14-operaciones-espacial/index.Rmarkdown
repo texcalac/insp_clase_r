@@ -18,7 +18,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S14_operaciones_espaciales.pdf
 - icon: flask
   icon_pack: fas
   name: lab
