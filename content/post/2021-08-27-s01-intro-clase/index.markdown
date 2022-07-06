@@ -1,7 +1,7 @@
 ---
-title: "Sesión 01 - 02 Septiembre 2021"
+title: "Sesión 01 - 02 Septiembre 2022"
 author: Tex
-date: '2021-08-27'
+date: '2022-07-06'
 slug: s01-intro-clase
 summary: Sesión de introducción a la unidad didáctica, se compartirá información
   de la clase, la logística del curso y la forma de evaluar.
