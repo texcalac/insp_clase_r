@@ -18,7 +18,7 @@ links:
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab_01.pdf
+  url: labs/Diapos.pdf
 ---
 
 ## Sesión de Introducción 
