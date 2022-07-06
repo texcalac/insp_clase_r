@@ -25,7 +25,6 @@ links:
 En esta sesión se compartirá información de la clase, la logística del curso y 
 la forma de evaluar.
 
-
 &nbsp;
 
 &nbsp;
